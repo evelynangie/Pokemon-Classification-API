@@ -176,7 +176,3 @@ Sistem menerima HTTP POST dengan *payload* JSON berisi representasi teks Base64 
   "detail": "Terjadi kesalahan pemrosesan gambar: [Pesan teknis spesifik]"
 }
 ```
-
-#� �P�o�k�e�m�o�n�-�C�l�a�s�s�i�f�i�c�a�t�i�o�n�-�A�P�I�
-�
-�
